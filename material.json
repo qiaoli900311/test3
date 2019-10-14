@@ -1,20 +1,37 @@
 {
-    "name": "test33",
-    "title": "test333",
-    "description": "",
-    "repository": {
-        "url": "https://github.com/qiaoli900311/test3.git",
-        "private": 1,
-        "auth": {
-            "username": "qiaoli900311",
-            "password": "48111400qiaoli"
-        }
-    },
-    "map": {
-        "components": [],
-        "blocks": [],
-        "pages": [],
-        "templates": []
-    },
-    "materialId": 90
+	"name": "test33",
+	"title": "test333",
+	"description": "",
+	"repository": {
+		"url": "https://github.com/qiaoli900311/test3.git",
+		"private": 1,
+		"auth": {
+			"username": "qiaoli900311",
+			"password": "48111400qiaoli"
+		}
+	},
+	"map": {
+		"components": [
+			{
+				"name": "test-qqqq",
+				"version": "1.0.0",
+				"title": "test-title",
+				"description": "miao",
+				"type": "component",
+				"platform": [
+					"PC"
+				],
+				"homePage": "/materials/90/dist530fd86c56ac527531a33714253334ce/index.html",
+				"category": "地图",
+				"screenshot": "/screenshots/530fd86c56ac527531a33714253334ce.png",
+				"path": "components/TestQqqq",
+				"origin": "https://github.com/qiaoli900311/test3.git",
+				"hash": "530fd86c56ac527531a33714253334ce"
+			}
+		],
+		"blocks": [],
+		"pages": [],
+		"templates": []
+	},
+	"materialId": 90
 }
