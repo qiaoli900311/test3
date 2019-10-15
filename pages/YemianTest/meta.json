@@ -1,0 +1,16 @@
+{
+    "name": "yemian-test",
+    "version": "1.0.0",
+    "title": "yemian-title",
+    "description": "yemian-miaoshu",
+    "type": "page",
+    "platform": [
+        "PC"
+    ],
+    "homePage": "/materials/90/dist3b19f3f5bfc41711b4394bd3b5f250b5/index.html",
+    "category": "布局",
+    "screenshot": "/screenshots/3b19f3f5bfc41711b4394bd3b5f250b5.png",
+    "path": "pages/YemianTest",
+    "origin": "https://github.com/qiaoli900311/test3.git",
+    "hash": "3b19f3f5bfc41711b4394bd3b5f250b5"
+}
