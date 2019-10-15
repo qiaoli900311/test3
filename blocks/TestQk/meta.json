@@ -1,0 +1,16 @@
+{
+    "name": "test-qk",
+    "version": "1.0.0",
+    "title": "test-qk-title",
+    "description": "qukuai-miaoshu",
+    "type": "block",
+    "platform": [
+        "PC"
+    ],
+    "homePage": "/materials/90/dist365837b0799683ffdf9a0b698d82ea94/index.html",
+    "category": "表格",
+    "screenshot": "/screenshots/365837b0799683ffdf9a0b698d82ea94.png",
+    "path": "blocks/TestQk",
+    "origin": "https://github.com/qiaoli900311/test3.git",
+    "hash": "365837b0799683ffdf9a0b698d82ea94"
+}
