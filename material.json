@@ -65,7 +65,24 @@
 				"hash": "3b19f3f5bfc41711b4394bd3b5f250b5"
 			}
 		],
-		"templates": []
+		"templates": [
+			{
+				"name": "moban-test",
+				"version": "1.0.0",
+				"title": "moban-title",
+				"description": "moban-miaoshu",
+				"type": "template",
+				"platform": [
+					"PC"
+				],
+				"homePage": "/materials/90/dist4f407eb5f91c088d6bd0230ff9a2b50c/index.html",
+				"category": "PC端面版",
+				"screenshot": "/screenshots/4f407eb5f91c088d6bd0230ff9a2b50c.png",
+				"path": "templates/MobanTest",
+				"origin": "https://github.com/qiaoli900311/test3.git",
+				"hash": "4f407eb5f91c088d6bd0230ff9a2b50c"
+			}
+		]
 	},
 	"materialId": 90
 }
